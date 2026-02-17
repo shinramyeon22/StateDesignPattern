@@ -33,7 +33,7 @@ The system currently relies on conditional statements within the VendingMachine 
 ## Implement the State Pattern to improve code maintainability and flexibility:
 
 
-1. **Define VendingMachine States:*  
+1. **Define VendingMachine States:**
 - Create separate classes representing different machine states: IdleState, ItemSelectedState, DispensingState, and OutOfOrderState.
 
 2. **Implement State Interface:**  
