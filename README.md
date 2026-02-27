@@ -50,4 +50,5 @@ The system currently relies on conditional statements within the VendingMachine 
 
 
 ## UML Diagram
+![alt text](https://github.com/shinramyeon22/AdapterPattern/blob/main/UML.png)
 
